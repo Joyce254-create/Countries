@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kenya Counties</string>
+    <string name="header_title">🇰🇪 47 Counties of Kenya</string>
+    <string name="header_subtitle">Tap any county to view full details</string>
+    <string name="county_code_format">County %1$s</string>
+    <string name="capital_format">🏛 Headquarters: %1$s</string>
+    <string name="population_format">👥 Population: %1$s</string>
+    <string name="economy_format">💼 Main Industry: %1$s</string>
+    <string name="region_format">📍 Region: %1$s</string>
+    <string name="btn_view">View</string>
+    <string name="btn_back">Back to Counties</string>
+    <string name="key_facts">County Details</string>
+    <string name="about">About County</string>
+</resources>
